@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Iphone 7",
+    "description": "iPhone 7 dramatically improves the most important aspects of the iPhone experience. It introduces advanced new camera systems. The best performance and battery life ever in an iPhone. Immersive stereo speakers. The brightest, most colorful iPhone display. Splash and water resistance.1 And it looks every bit as powerful as it is. This is iPhone 7.",
+    "weight": "138 grams",
+    "price": 600.50,
+    "camera": "12MP camera",
+    "color": "black",
+    "capacity": "32GB",
+    "images": [
+      "images/iphone7.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Galaxy note 7",
+    "description": "The Galaxy Note 7 is a beautiful, capable Android phone that showcases Samsung's best in design, battery life, speed and features. The 64GB base model leaves you plenty of space for photos, videos and games.",
+    "weight": "169 grams",
+    "price": 22.90,
+    "camera": "12MP camera",
+    "color": "silver",
+    "capacity": "64GB",
+    "images": [
+      "images/galaxy7.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Xperia Z5",
+    "description": "Xperia Z5 lets you capture life’s greatest photo opportunities, before they pass you by. With its Hybrid Autofocus, our best camera phone yet is a master of speed and accuracy. Combined with 23 megapixels and five times more powerful image zoom, Xperia Z5 is able to capture even the most fleeting moments. In sparkling clarity. On the first try.",
+    "weight": "154 grams",
+    "price": 1100,
+    "camera": "23MP camera",
+    "color": "black",
+    "capacity": "64GB",
+    "images": [
+      "images/xperiaZ5.jpg"
+    ],
+    "reviews": []
+  }
+]
